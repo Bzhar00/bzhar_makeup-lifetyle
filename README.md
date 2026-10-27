@@ -43,8 +43,3 @@ Client side
 | `exports.bzhar_makeup:refresh()` | nothing | Puts the player's saved makeup back on |
 | `exports.bzhar_makeup:getLook()` | table | The player's saved look, one entry per section |
 
-## Support
-
-- Discord: https://discord.gg/mtX9KBUnfJ
-- Store: https://www.bzhar.store/
-- Preview: https://youtu.be/wjrpfYm82mg (the menu has sound, the recording did not pick it up)
